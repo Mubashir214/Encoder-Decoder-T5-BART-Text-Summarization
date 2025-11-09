@@ -1,5 +1,6 @@
+# requirements.txt - CPU only
 streamlit==1.28.0
 transformers==4.35.0
-torch==1.13.1
+torch==1.13.1+cpu
 sentencepiece==0.1.99
 numpy==1.21.6
